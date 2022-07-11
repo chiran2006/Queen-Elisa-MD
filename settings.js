@@ -32,15 +32,15 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94705261236'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
-global.pemilik = ['94705261236'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94705261236'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = 'chiran' // Your name ඔබේ නම 
-global.botnma = '💃 chiran 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
-global.ownernma = '𝓓𝓪𝓻𝓴 𝓜𝓪𝓴𝓮𝓻' //ownernama,ownername
-global.packname = 'Queen Elisa Sticker' // Sticker package name 
-global.author = 'Dark Maker' // Sticker Autor name 
-global.sessionName = 'session'
+global.owner = ['94740216117'] // Owner number , (අයිතිකරුගේ නම්බර් එක )
+global.pemilik = ['94740216117'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94740216117'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂' // Your name ඔබේ නම 
+global.botnma = '💃 ꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂ 𝐁𝐨𝐭 💃' // Your bot name , ඔබගෙ බොට්ගේ නම 
+global.ownernma = ' ꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂   ' //ownernama,ownername
+global.packname = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂' // Sticker package name 
+global.author = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂ ' // Sticker Autor name 
+global.sessionName = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
