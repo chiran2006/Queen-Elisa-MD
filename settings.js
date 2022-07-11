@@ -40,7 +40,7 @@ global.botnma = '💃 ꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂ 𝐁𝐨𝐭 �
 global.ownernma = ' ꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂   ' //ownernama,ownername
 global.packname = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂' // Sticker package name 
 global.author = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂ ' // Sticker Autor name 
-global.sessionName = '꧁༺•𝘾𝙃𝙄𝙍么𝙉•༻꧂'
+global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
